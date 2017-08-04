@@ -1,0 +1,14 @@
+*.class
+*.jar
+*.war
+*.ear
+*.gz
+*.log
+
+.classpath
+.project
+.settings
+.svn
+.dubbo
+target/
+build/
